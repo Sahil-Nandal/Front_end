@@ -60,7 +60,7 @@ body{
     color:white;
     display: none;
     transition: display 1s;
-    font-size: larger;
+  
 }
 
 .btn-outline-success{
@@ -91,6 +91,10 @@ body{
 
     .col{
         margin: 7%;
+    }
+    
+    .text{
+        font-size: larger;
     }
     
 }
