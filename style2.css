@@ -60,6 +60,7 @@ body{
     color:white;
     display: none;
     transition: display 1s;
+    font-size: larger;
 }
 
 .btn-outline-success{
