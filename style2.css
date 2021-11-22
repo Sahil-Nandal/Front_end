@@ -23,7 +23,7 @@ body{
     height: 270px;
     margin: 1%;
     border-radius: 5px;
-    box-shadow: 2px 2px 50px 2px #0051ff7e;
+    box-shadow: 2px 2px 50px 2px ##222222dc;
 }
 #col1{
     background-image: url("https://cdn.pixabay.com/photo/2018/08/14/13/23/ocean-3605547__480.jpg");
